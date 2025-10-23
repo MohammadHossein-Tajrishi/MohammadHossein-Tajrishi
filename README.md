@@ -1,5 +1,9 @@
 <!-- Glowing Header -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8A0&center=true&vCenter=true&width=500&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20MohammadHossein%20Tajrishi;Full%20Stack%20Developer;UI%2FUX%20Designer;Creative%20Thinker" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20MohammadHossein%20Tajrishi;Full%20Stack%20Developer;UI%2FUX%20Designer;Creative%20Thinker" alt="Typing SVG Neon" />
 </p>
 <h1 align="center">
