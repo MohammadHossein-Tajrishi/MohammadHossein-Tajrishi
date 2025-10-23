@@ -4,13 +4,13 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1D1&center=true&vCenter=true&width=450&lines=Frontend+Developer;UI%2FUX+Designer;Web+Developer;Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1D1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;Web+Developer;Creative+Thinker" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
-💻 Frontend Developer & UI/UX Designer  
+💻 Full Stack Developer & UI/UX Designer  
 🎨 Passionate about clean code & modern design  
 🔥 Always learning new tools and technologies  
 📍 Based in Iran  
