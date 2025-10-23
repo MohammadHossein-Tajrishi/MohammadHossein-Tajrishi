@@ -3,21 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20MohammadHossein%20Tajrishi;Full%20Stack%20Developer;UI%2FUX%20Designer;Creative%20Thinker" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8A0&center=true&vCenter=true&width=500&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20MohammadHossein%20Tajrishi;Full%20Stack%20Developer;UI%2FUX%20Designer;Creative%20Thinker" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20MohammadHossein%20Tajrishi;Full%20Stack%20Developer;UI%2FUX%20Designer;Creative%20Thinker" alt="Typing SVG Neon" />
-</p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MohammadHossein+Tajrishi;Full+Stack+Developer;UI%2FUX+Designer;Creative+Thinker" alt="Typing Animation" />
-</h1>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Design%20with%20clarity,%20code%20with%20soul-00FFF7?style=for-the-badge&logoColor=white&color=0D1117&labelColor=00FFF7" />
-</h3>
-
 ---
 
 ### 🧠 About Me
